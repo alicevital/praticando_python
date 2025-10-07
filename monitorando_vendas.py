@@ -6,8 +6,8 @@ Crie um programa que receba o número de vendas dos dois produtos e exiba uma me
 Se as quantidades forem iguais, exiba uma mensagem dizendo que houve empate.
 Saída esperada:
 '''
-macas_vendidas = int(input(print("Digite a quantidade de maçãs vendidas: ")))
-bananas_vendidas = int(input(print("Digite a quantidade de bananas vendidas: ")))
+macas_vendidas = int(input("Digite a quantidade de maçãs vendidas: "))
+bananas_vendidas = int(input("Digite a quantidade de bananas vendidas: "))
 
 if macas_vendidas > bananas_vendidas:
     print("As maçãs foram a fruta mais vendida!")
