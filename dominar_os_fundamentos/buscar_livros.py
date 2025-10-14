@@ -13,5 +13,3 @@ for livro in livros:
     if livro == "O Hobbit":
         print("Livro encontrado!")
         break
-
-
